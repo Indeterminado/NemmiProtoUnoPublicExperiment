@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6F7FD2</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#335EC9</color>
+    <color name="colorText">#FFFFFF</color>
+    <color name="colorBtn">#FFFFFF</color>
+    <color name="colorBtnPress">#CCCCCC</color>
+    <color name="colorLerpStart">#000000</color>
+    <color name="colorLerpEnd">#FFFFFF</color>
+    <color name="colorHelper">#FF0000</color>
+    <color name="overlayBG">#BF000000</color>
+    <color name="colorDialog">#FFF</color>
+</resources>
